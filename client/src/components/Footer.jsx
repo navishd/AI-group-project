@@ -15,7 +15,7 @@ const Footer = () => {
             />
           </a>
           <p className="text-sm/7 mt-6">
-            Experience the future of content creation with Quick AI. <br/>From writing to image generation, we have everything you need to bring your ideas to life.
+            Experience the future of content creation with Quick AI. <br/>From crafting articles to generating blog titles, we make your ideas come alive.
           </p>
         </div>
 
